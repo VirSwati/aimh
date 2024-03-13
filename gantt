@@ -1,0 +1,36 @@
+gantt
+    dateFormat  YYYY-MM
+    axisFormat  %b %Y
+    title AIMHI Project Plan of Action
+
+    section Literature Review
+    Conduct rapid review                :a1, 2024-06, 2024-08
+    Integrate insights into project plan :a2, 2024-09, 2024-11
+
+    section Stakeholder Engagement
+    Map stakeholders & establish board  :b1, 2024-06, 2024-08
+    Hold kickoff & consultation workshop:b2, 2024-09, 2024-11
+
+    section Ethics & Protocols
+    Develop research protocols          :c1, 2024-06, 2024-08
+    Secure ethics approvals             :c2, after c1, 2024-08
+
+    section AI System Development
+    Design AI framework                 :d1, 2024-09, 2024-11
+    Train & validate LLM                :d2, 2024-12, 2025-02
+    Develop prototype chatbot           :d3, 2024-12, 2025-02
+    Pilot test & refine chatbot         :d4, 2024-12, 2025-02
+
+    section Evaluation Study
+    Conduct RCT                         :e1, 2025-03, 2025-05
+    Analyze quantitative & qualitative data :e2, 2025-03, 2025-05
+
+    section Findings & Outputs
+    Synthesize findings & recommendations :f1, 2025-06, 2025-08
+    Draft & submit manuscripts          :f2, 2025-06, 2025-08
+    Present results at conferences      :f3, 2025-06, 2025-08
+
+    section Dissemination & Impact
+    Revise & submit final deliverables  :g1, 2025-09, 2025-11
+    Develop dissemination strategy      :g2, 2025-09, 2025-11
+    Explore pathways for impact         :g3, 2025-09, 2025-11
